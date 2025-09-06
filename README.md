@@ -1,6 +1,7 @@
 # Pathway Coffee Talks
 
 A simple static website built for HTML learning and practice purposes.
+![Pathway Coffee Talks Screeshot](cafe_web.png)
 
 ## Description
 
