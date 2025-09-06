@@ -1,11 +1,9 @@
 # Pathway Coffee Talks
 
 A simple static website built for HTML learning and practice purposes.
-![Pathway Coffee Talks Screeshot](cafe_web.png)
-
-## Description
-
 This is a basic multi-page website created to demonstrate fundamental HTML skills and semantic markup. The site features a coffee-themed blog structure with navigation, forms, and media elements.
+
+![Pathway Coffee Talks Screeshot](cafe_web.png)
 
 ## Features
 
